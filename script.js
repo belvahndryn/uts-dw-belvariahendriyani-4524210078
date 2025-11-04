@@ -29,3 +29,4 @@ function updatePreview() {
 [judulInput, penulisInput, sinopsisInput, alasanInput, ratingInput].forEach(
   (input) => input.addEventListener("input", updatePreview)
 );
+console.log("selesai");
