@@ -10,6 +10,7 @@ body {
   color: #4a4a4a;
   min-height: 100vh;
   padding-bottom: 2rem;
+  margin: 0;
 }
 
 header {
